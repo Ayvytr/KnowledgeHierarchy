@@ -16,7 +16,7 @@
 
 正数a的正的平方根叫做a的算术平方根，记作“$$\sqrt{a}$$”。
 
-$$a$$（$$a \geq$$0） $$\sqrt{a} \geq 0$$
+$$a（a \geq 0） \sqrt{a} \geq 0 $$
 
 $$\sqrt{a^{2}} = \left| a \right| =$$ ；注意$$\sqrt{a}$$的双重非负性：
 
