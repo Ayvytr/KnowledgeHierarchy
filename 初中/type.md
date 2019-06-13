@@ -1,16 +1,10 @@
 ![](media/b64560f5796b3ed6003cd4b4d6926558.png)
 
- ![图片](https://raw.githubusercontent.com/zzhoujay/RichText/master/image/image.jpg) 
-
 
 
 2、算术平方根
 
-正数a的正的平方根叫做a的算术平方根，记作“$$\sqrt{a}$$”。
-
-$$a（a \geq 0） \sqrt{a} \geq 0 $$
-
-$$\sqrt{a^{2}} = \left| a \right| =$$ ；注意$$\sqrt{a}$$的双重非负性：
+正数a的正的平方根叫做a的算术平方根，记作“$$\sqrt{a}$$”, 注意$$\sqrt{a}$$的双重非负性：
 
 （2）求差比较：设a、b是实数，
 
@@ -28,8 +22,7 @@ $$
 
 （3）求商比较法：设a、b是两正实数，$$\frac{a}{b} > 1 \Leftrightarrow a >b;\frac{a}{b} = 1 \Leftrightarrow a = b;\frac{a}{b} < 1 \Leftrightarrow a < b;$$
 
-（4）绝对值比较法：设a、b是两负实数，则$$\left| a \right| > \left| b \right|
-\Leftrightarrow a < b$$。
+（4）绝对值比较法：设a、b是两负实数，则 $$\left| a \right| > \left| b \right| \Leftrightarrow a < b$$。
 
 （5）平方法：设a、b是两负实数，则$$a^{2} > b^{2} \Leftrightarrow a < b$$。
 
