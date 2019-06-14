@@ -20,7 +20,7 @@ $$
 a - b < 0 \Leftrightarrow a < b
 $$
 
-（3）求商比较法：设a、b是两正实数，$$\frac{a}{b} > 1 \Leftrightarrow a >b;\frac{a}{b} = 1 \Leftrightarrow a = b;\frac{a}{b} < 1 \Leftrightarrow a < b;$$
+（3）求商比较法：设a、b是两正实数，$\frac{a}{b} > 1 \Leftrightarrow a >b;\frac{a}{b} = 1 \Leftrightarrow a = b;\frac{a}{b} < 1 \Leftrightarrow a < b;$
 
 （4）绝对值比较法：设a、b是两负实数，则 $$\left| a \right| > \left| b \right| \Leftrightarrow a < b$$。
 
