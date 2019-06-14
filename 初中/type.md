@@ -35,3 +35,12 @@ $$
 | tanα     | 0      | $\frac{\sqrt{3}}{3}$ | 1                    | $\sqrt{3}$           | 不存在 |
 | cotα     | 不存在 | $\sqrt{3}$           | 1                    | $\frac{\sqrt{3}}{3}$ | 0      |
 
+
+
+Table
+
+| day         | time  |  spent |
+| :---------- | :---: | -----: |
+| nov. 2. tue | 10:00 | 4h 40m |
+| nov. 3. thu | 11:00 |     4h |
+| nov. 7. mon | 10:20 | 4h 20m |
