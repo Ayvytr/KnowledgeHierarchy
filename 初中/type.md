@@ -4,7 +4,7 @@
 
 2、算术平方根
 
-正数a的正的平方根叫做a的算术平方根，记作“$\sqrt{a}$”, 注意$$\sqrt{a}$$的双重非负性：
+正数a的正的平方根叫做a的算术平方根，记作“$\sqrt{a}$”, 注意$$\sqrt{a}$$的双重非负性。$\sqrt{a}$,  '$\sqrt{a}$'
 
 （2）求差比较：设a、b是实数，
 
@@ -20,7 +20,7 @@ $$
 a - b < 0 \Leftrightarrow a < b
 $$
 
-（3）求商比较法：设a、b是两正实数，$$\frac{a}{b} > 1 \Leftrightarrow a >b;\frac{a}{b} = 1 \Leftrightarrow a = b;\frac{a}{b} < 1 \Leftrightarrow a < b;$$
+（3）求商比较法：设a、b是两正实数，$\frac{a}{b} > 1 \Leftrightarrow a >b;\frac{a}{b} = 1 \Leftrightarrow a = b;\frac{a}{b} < 1 \Leftrightarrow a < b;$
 
 （4）绝对值比较法：设a、b是两负实数，则 $$\left| a \right| > \left| b \right| \Leftrightarrow a < b$$。
 
